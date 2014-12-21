@@ -5,6 +5,9 @@ package org.cncc.lms;
  */
 public class DefaultAccessor {
 
+    public DefaultAccessor()
+    {}
+
 
 
 }
